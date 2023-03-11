@@ -1,11 +1,9 @@
-- 👋 Hi, I’m Vitalii Ponomarov.
-- 👀 I’m interested in Front-end Development.
-
-[![codewars pnmrvvtl](https://www.codewars.com/users/pnmrvvtl/badges/small)](https://www.codewars.com/users/pnmrvvtl)
+- 👋 Hi, my name is Vitalii Ponomarov.
+- 👀 And I'm Front-end Developer.
 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+### 🛠 &nbsp;My languages and tools:
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -22,6 +20,12 @@
 
 ---
 
+### 🛠 &nbsp;My Codewars profile:
+[![codewars pnmrvvtl](https://www.codewars.com/users/pnmrvvtl/badges/small)](https://www.codewars.com/users/pnmrvvtl)
+
+---
+
+### 🛠 &nbsp;My Github statistics:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pnmrvvtl&theme=dark&background=000000)](https://git.io/streak-stats)
 
