@@ -26,6 +26,8 @@
 
 ### 🛠 &nbsp;My Codewars profile:
 [![codewars pnmrvvtl](https://www.codewars.com/users/pnmrvvtl/badges/small)](https://www.codewars.com/users/pnmrvvtl)
+                                                                                                                                             
+[![codewars pnmrvvtl](https://github.r2v.ch/codewars?user=pnmrvvtl)](https://www.codewars.com/users/pnmrvvtl)
 
 ---
 
