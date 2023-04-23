@@ -1,10 +1,10 @@
 - 👋 Hi, my name is Vitalii Ponomarov.
-- 👀 And I'm Front-end Developer, JS ES6+, React, Vue.
+- 👀 And I'm Front-end Developer, JavaScript ES6+, TypeScript, React, Vue.
 - 📖 Also I'm learning back-end Express.js, Nest.js to become full-stack developer.
 
 
 ---
-### Follow me
+### 📧 &nbsp;Follow me
 [![Badge_linkedIn](https://img.shields.io/badge/-LinkedIn-0045CB?style=for-the-badge&logo=LinkedIn&&logoColor=0000000)](https://www.linkedin.com/in/vitalii-ponomarov-289039237)
 [![Badge_telegram](https://img.shields.io/badge/-telegram-027AE9?style=for-the-badge&logo=Telegram&&logoColor=0000000)](https://t.me/pnmrvvtl)
 [![Badge_gmail](https://img.shields.io/badge/-gmail-EB1D00?style=for-the-badge&logo=Gmail&&logoColor=FFFFFF)](mailto:pnmrv.vtl@gmail.com)
