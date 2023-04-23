@@ -1,48 +1,53 @@
-- 👋 Hi, my name is Vitalii Ponomarov.
-- 👀 And I'm Front-end Developer, JavaScript ES6+, TypeScript, React, Vue.
-- 📖 Also I'm learning back-end Express.js, Nest.js to become full-stack developer.
-
+👋 Hi, my name is **Vitalii Ponomarov**.<br />
+👀 And I'm **Front-end Developer**, JavaScript ES6+, TypeScript, React, Vue.<br />
+📖 Also I'm learning back-end Express.js, Nest.js to become full-stack developer.<br />
 
 ---
-### 📧 &nbsp;Follow me
+### 📧 &nbsp;Contacts:
 [![Badge_linkedIn](https://img.shields.io/badge/-LinkedIn-0045CB?style=for-the-badge&logo=LinkedIn&&logoColor=0000000)](https://www.linkedin.com/in/vitalii-ponomarov-289039237)
 [![Badge_telegram](https://img.shields.io/badge/-telegram-027AE9?style=for-the-badge&logo=Telegram&&logoColor=0000000)](https://t.me/pnmrvvtl)
 [![Badge_gmail](https://img.shields.io/badge/-gmail-EB1D00?style=for-the-badge&logo=Gmail&&logoColor=FFFFFF)](mailto:pnmrv.vtl@gmail.com)
+<a target='_blank' href='https://docs.google.com/document/d/1aRBaewVLefO7Rw3zJDLa68VndX9dzoDPgEL8kkV1jqs/edit?usp=sharing'>
+  <img src='https://img.shields.io/badge/CV%20%E2%86%92%20Google%20Docs-blue?style=for-the-badge&logo=googledrive&logoColor=white'></img>
+</a>
 
 ---
 
 ### 🛠 &nbsp;My languages and tools:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
-<img src="https://www.svgrepo.com/download/374167/vite.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="Nest.js" alt="Nest.js" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-</p>
+---
+### 📜 &nbsp;Certificates:
+
+<img width="564" alt="Знімок екрана 2023-04-23 05 02 55" src="https://user-images.githubusercontent.com/5475964/233815484-11f12446-67fa-4c69-9ad7-e74a28718961.png">
 
 ---
 
-### 🛠 &nbsp;My Codewars profile:
+### 👨‍💻 &nbsp;My Codewars profile:
 [![codewars pnmrvvtl](https://www.codewars.com/users/pnmrvvtl/badges/small)](https://www.codewars.com/users/pnmrvvtl)
                                                                                                                                              
 [![codewars pnmrvvtl](https://github.r2v.ch/codewars?user=pnmrvvtl)](https://www.codewars.com/users/pnmrvvtl)
 
 ---
 
-### 🛠 &nbsp;My GitHub statistics:
+### 🌐 &nbsp;My GitHub statistics:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pnmrvvtl&theme=dark&background=000000)](https://git.io/streak-stats)
 
