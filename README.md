@@ -37,6 +37,8 @@
 ### 📜 &nbsp;Certificates:
 
 <img width="564" alt="Знімок екрана 2023-04-23 05 02 55" src="https://user-images.githubusercontent.com/5475964/233815484-11f12446-67fa-4c69-9ad7-e74a28718961.png">
+<img width="564" alt="Знімок екрана 2023-06-07 19 03 30" src="https://github.com/pnmrvvtl/pnmrvvtl/assets/5475964/f3306231-87a0-4dd7-a57c-595df077e7d6">
+
 
 ---
 
