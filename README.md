@@ -42,10 +42,12 @@
 
 ---
 
-### 👨‍💻 &nbsp;My Codewars profile:
-[![codewars pnmrvvtl](https://www.codewars.com/users/pnmrvvtl/badges/small)](https://www.codewars.com/users/pnmrvvtl)
-                                                                                                                                             
+### 👨‍💻 &nbsp;My Codewars and Leetcode profiles:
+[![codewars pnmrvvtl](https://www.codewars.com/users/pnmrvvtl/badges/small)](https://www.codewars.com/users/pnmrvvtl)                                                                                                                                          
+
 [![codewars pnmrvvtl](https://github.r2v.ch/codewars?user=pnmrvvtl)](https://www.codewars.com/users/pnmrvvtl)
+
+[![LeetCode user pnmrvvtl](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=%23383941&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fpnmrvvtl&logo=leetcode&logoColor=yellow)](https://leetcode.com/pnmrvvtl/)   
 
 ---
 
